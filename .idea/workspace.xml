@@ -6,6 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="53333023-4cf2-4cff-9c70-0eccd6e36c8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_10.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2/opdracht_10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_11.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2/opdracht_11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_12.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2/opdracht_12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_13.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2/opdracht_13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2/opdracht_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2/opdracht_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2/opdracht_5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2/opdracht_6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2/opdracht_7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2/opdracht_8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2/opdracht_9.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,11 +45,17 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.opdracht_10.html.executor": "Run",
+    "JavaScript Debug.opdracht_11.html.executor": "Run",
+    "JavaScript Debug.opdracht_12.html.executor": "Run",
+    "JavaScript Debug.opdracht_13.html.executor": "Run",
     "JavaScript Debug.opdracht_3.html.executor": "Run",
     "JavaScript Debug.opdracht_4.html.executor": "Run",
     "JavaScript Debug.opdracht_5.html.executor": "Run",
     "JavaScript Debug.opdracht_6.html.executor": "Run",
     "JavaScript Debug.opdracht_7.html.executor": "Run",
+    "JavaScript Debug.opdracht_8.html.executor": "Run",
+    "JavaScript Debug.opdracht_9.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -81,6 +98,7 @@
       <updated>1727782775384</updated>
       <workItem from="1727782776433" duration="3127000" />
       <workItem from="1727873309210" duration="4023000" />
+      <workItem from="1728054316243" duration="3266000" />
     </task>
     <servers />
   </component>
