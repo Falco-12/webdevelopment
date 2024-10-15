@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53333023-4cf2-4cff-9c70-0eccd6e36c8c" name="Changes" comment="" />
+    <list default="true" id="53333023-4cf2-4cff-9c70-0eccd6e36c8c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -35,6 +40,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.Opdracht_1_2_3.html.executor": "Run",
+    "JavaScript Debug.Opdracht_1_en_2.html.executor": "Run",
     "JavaScript Debug.copy_index.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
     "JavaScript Debug.opdracht_10.html.executor": "Run",
@@ -68,16 +74,6 @@
       <recent name="C:\github\webdevelopment\Labo_2" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="opdracht_3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_2/opdracht_3.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.opdracht_3.html" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -99,7 +95,8 @@
       <workItem from="1728388762619" duration="3556000" />
       <workItem from="1728477627038" duration="10003000" />
       <workItem from="1728553892197" duration="622000" />
-      <workItem from="1728564993997" duration="4748000" />
+      <workItem from="1728564993997" duration="4844000" />
+      <workItem from="1728992539028" duration="4638000" />
     </task>
     <servers />
   </component>
