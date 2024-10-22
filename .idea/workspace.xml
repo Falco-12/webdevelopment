@@ -16,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -42,8 +43,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Opdracht_1.html.executor": "Run",
     "JavaScript Debug.Opdracht_1_2_3.html.executor": "Run",
     "JavaScript Debug.Opdracht_1_en_2.html.executor": "Run",
+    "JavaScript Debug.Opdracht_3.html.executor": "Run",
     "JavaScript Debug.copy_index.html.executor": "Run",
     "JavaScript Debug.hoofdpagina_index.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
@@ -63,6 +66,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/github/webdevelopment/Labo_3/Personal_homepage",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -104,6 +108,8 @@
       <workItem from="1728564993997" duration="4844000" />
       <workItem from="1728992539028" duration="4688000" />
       <workItem from="1729080778097" duration="8081000" />
+      <workItem from="1729329379080" duration="896000" />
+      <workItem from="1729595839431" duration="4220000" />
     </task>
     <servers />
   </component>
