@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="53333023-4cf2-4cff-9c70-0eccd6e36c8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/Opdracht_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_5/Opdracht_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/Opdracht_6/Styles/stijl.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_5/Opdracht_6/Styles/stijl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/Opdracht_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_5/Opdracht_6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/Opdracht_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_5/Opdracht_7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +52,7 @@
     "JavaScript Debug.Opdracht_1_2_3.html.executor": "Run",
     "JavaScript Debug.Opdracht_1_en_2.html.executor": "Run",
     "JavaScript Debug.Opdracht_3.html.executor": "Run",
+    "JavaScript Debug.Opdracht_7.html.executor": "Run",
     "JavaScript Debug.copy_index.html.executor": "Run",
     "JavaScript Debug.hoofdpagina_index.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
@@ -109,7 +115,8 @@
       <workItem from="1728992539028" duration="4688000" />
       <workItem from="1729080778097" duration="8081000" />
       <workItem from="1729329379080" duration="896000" />
-      <workItem from="1729595839431" duration="4220000" />
+      <workItem from="1729595839431" duration="4319000" />
+      <workItem from="1729683465476" duration="3297000" />
     </task>
     <servers />
   </component>
