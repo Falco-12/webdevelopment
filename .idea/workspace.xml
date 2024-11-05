@@ -6,11 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="53333023-4cf2-4cff-9c70-0eccd6e36c8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_5/Opdracht_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_5/Opdracht_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_5/Opdracht_6/Styles/stijl.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_5/Opdracht_6/Styles/stijl.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo_5/Opdracht_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_5/Opdracht_6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_5/Opdracht_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_5/Opdracht_7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/Opdracht_4/Opdracht_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_6/Opdracht_4/Opdracht_4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -69,6 +66,7 @@
     "JavaScript Debug.opdracht_9.html.executor": "Run",
     "JavaScript Debug.pagina_hobbys.html.executor": "Run",
     "JavaScript Debug.pagina_likes.html.executor": "Run",
+    "JavaScript Debug.resume.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/github/webdevelopment/Labo_3/Personal_homepage",
@@ -86,6 +84,8 @@
       <recent name="C:\github\webdevelopment\Labo_3\Personal_homepage" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\github\webdevelopment\Labo_6\Opdracht_1" />
+      <recent name="C:\github\webdevelopment\Labo_6\Opdracht_1\css" />
       <recent name="C:\github\webdevelopment" />
       <recent name="C:\github\webdevelopment\Labo_2" />
     </key>
@@ -116,7 +116,9 @@
       <workItem from="1729080778097" duration="8081000" />
       <workItem from="1729329379080" duration="896000" />
       <workItem from="1729595839431" duration="4319000" />
-      <workItem from="1729683465476" duration="3297000" />
+      <workItem from="1729683465476" duration="4009000" />
+      <workItem from="1729880275557" duration="2304000" />
+      <workItem from="1730810033867" duration="4109000" />
     </task>
     <servers />
   </component>
