@@ -7,12 +7,8 @@ h1{
 h2{
     font-size: 40px;
 }
-.headcolor{
-    color:#EDF2F4;
-}
-.ruimte{
-    padding : 30px;
-}
+
+
 a{
     color: #EF233C;
 }
@@ -30,4 +26,12 @@ header{
 }
 footer{
     margin-top: 10px;
+}
+
+header > h1, h2{
+    color:#EDF2F4
+}
+
+header, footer, education{
+    padding: 30px;
 }
