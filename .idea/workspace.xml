@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="53333023-4cf2-4cff-9c70-0eccd6e36c8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_6/Opdracht_6/Opdracht_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_6/Opdracht_6/Opdracht_6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,11 +86,11 @@
       <recent name="C:\github\webdevelopment\Labo_3\Personal_homepage" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\github\webdevelopment\Labo_7\Opdracht_1" />
       <recent name="C:\github\webdevelopment\Labo_6\Opdracht_6\images" />
       <recent name="C:\github\webdevelopment\Labo_6\Opdracht_1" />
       <recent name="C:\github\webdevelopment\Labo_6\Opdracht_1\css" />
       <recent name="C:\github\webdevelopment" />
-      <recent name="C:\github\webdevelopment\Labo_2" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -125,7 +124,9 @@
       <workItem from="1730810033867" duration="4561000" />
       <workItem from="1730999634402" duration="7709000" />
       <workItem from="1731085459747" duration="608000" />
-      <workItem from="1731095486695" duration="349000" />
+      <workItem from="1731095486695" duration="1221000" />
+      <workItem from="1731181195407" duration="2000" />
+      <workItem from="1731415590957" duration="3706000" />
     </task>
     <servers />
   </component>

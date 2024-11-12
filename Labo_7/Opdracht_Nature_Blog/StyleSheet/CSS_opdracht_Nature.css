@@ -1,0 +1,33 @@
+body{
+    width: 95%;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+}
+article{
+    background-color: lightgray;
+    padding-top:1px;
+    margin-top:5px;
+}
+article > header > h1{
+    text-decoration: underline;
+    font-size: 1.5em;
+}
+nav{
+    background-color: dimgray;
+}
+nav > a{
+    color: palegreen;
+    text-decoration: none;
+    font-weight: bold;
+}
+section > header{
+    background-image: url("../images/header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:10px
+}
+section > header > h1{
+    color: white;
+    font-size: 3em;
+    margin-top: 0;
+}
