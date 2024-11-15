@@ -1,24 +1,30 @@
-table, head, tbody, tr, th, td {
+table, thead, tbody, tr, th, td {
     border: 0.5px solid;
 }
-tbody tr td:first-child,
-tbody tr td:last-child {
+
+
+tbody tr td:first-child:not(.nietjuni),
+tbody tr td:last-child:not(.nietjuni) {
     background-color: rgb(255, 220, 220);
 }
 
 
-
-thead > tr> td{
+thead > tr > td {
     background-color: rgb(35,37,70);
-    color:  rgb(200,190,240);
+    color: rgb(200,190,240);
 }
-thead > tr> th{
-background-color: rgb(170,170,200);
+
+thead > tr > th {
+    background-color: rgb(170,170,200);
 }
-.vrij{
+
+
+.vrij {
     background-color: rgb(250,120,120);
 }
-.nietjuni{
+
+
+tbody td.nietjuni {
     background-color: lightgray;
     color: gray;
 }
