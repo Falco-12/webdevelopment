@@ -1,0 +1,46 @@
+body {
+    width: 95%;
+    margin: 0 auto;
+}
+ .top{
+    background-image: url(../images/twenty_one_pilots_logo.jpg);
+    background-size: 16px 16px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.pol{
+    background-image: url(../images/party_of_your_lifetime.jpg);
+    background-size: 16px 16px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.gsm{
+    background-image: url(../images/Twenty_one_pilots_logo.jpg);
+    background-size: 16px 16px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.lego{
+    list-style-image: url(../images/LEGO_logo.png);
+}
+.epic{
+    list-style-image: url(../images/Epic-Games_Logo.png);
+}
+.yt{
+    list-style-image: url(../images/youtube.png);
+}
+table, head, tbody, tr, th, td {
+    border: 1px solid;
+}
+section {
+    background-color: lightgray;
+}
