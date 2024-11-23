@@ -1,0 +1,69 @@
+body {
+    width: 95%;
+    margin: 0 auto;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-size: 1.2em;
+    box-sizing: border-box;
+
+}
+section{
+    width: 70%
+}
+h1, h2{
+    color: #007e7e;
+}
+h1{
+    font-size: 150%;
+}
+h2{
+    font-size: 130%;
+}
+.achtergrond{
+ text-align: center;
+}
+#guarantee{
+    border: 1px dashed white;
+    margin: 30px;
+    padding: 20px 20px 20px 100px;
+    color: #444444;
+    background-color: #a7cece;
+    background-image: url("../images/background.gif");
+    background-repeat: no-repeat;
+    background-position: left top;
+
+
+}
+.weekly{
+    box-sizing: border-box;
+    background-image: url("../images/cocktail.gif");
+    background-repeat: repeat-x;
+    display: inline-block;
+    float: right;
+    width:25%;
+    margin-left: 10px;
+    border: 5px solid darkseagreen;
+    text-align: center;
+}
+.weekly a:hover{
+    background-color: saddlebrown;
+}
+.weekly h2{
+    color: red;
+}
+.weekly h1 {
+    color: black;
+}
+
+
+.cursief {
+    font-style: italic;
+}
+
+
+.vet {
+    font-weight: bold;
+}
+.footer{
+    font-size: 0.6em;
+    text-align: right;
+}
