@@ -1,0 +1,13 @@
+article {
+    display: inline-block;
+    border: 1px solid blue;
+    margin: 10px 10px
+}
+main :nth-child(2n) img{
+    float: right;
+    margin:10px;
+}
+main :nth-child(2n-1) img{
+    float: left;
+    margin:10px;
+}
