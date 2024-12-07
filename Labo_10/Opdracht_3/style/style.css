@@ -1,0 +1,23 @@
+body{
+    width: 95%;
+    margin: 0 auto;
+}
+
+body > div > div :nth-child(2n) {
+    background: dimgrey;
+    color: dimgrey;
+    margin-top: 10px;
+    padding: 50px 50px;
+    text-align: center;
+}
+
+body > div > div :nth-child(2n-1) {
+    background: darkgray;
+    color: darkgray;
+    margin-top: 10px;
+    padding: 50px 50px;
+    text-align: center;
+}
+
+
+

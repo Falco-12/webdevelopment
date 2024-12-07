@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -60,8 +60,10 @@
     &quot;JavaScript Debug.airbus.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.copy_index.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.hoofdpagina_index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.htm.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.loungestart.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.oef1.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.opdracht_10.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.opdracht_11.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.opdracht_12.html.executor&quot;: &quot;Run&quot;,
@@ -82,7 +84,7 @@
     &quot;JavaScript Debug.voorbeeld4.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/github/webdevelopment/Labo_8/Lorem_Ipsum_extra_ruimte&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/github/webdevelopment/Labo_10/Opdracht_5/style&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -94,11 +96,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\github\webdevelopment\Labo_10\Opdracht_5\style" />
+      <recent name="C:\github\webdevelopment\Labo_10\Opdracht_5" />
+      <recent name="C:\github\webdevelopment\Labo_10\Opdracht 4" />
+      <recent name="C:\github\webdevelopment\Labo_10\Opdracht_3" />
       <recent name="C:\github\webdevelopment\Labo_8\Lorem_Ipsum_extra_ruimte" />
-      <recent name="C:\github\webdevelopment\Labo_8\opdracht_5" />
-      <recent name="C:\github\webdevelopment\Labo_8\Opdracht_1\opdracht_5" />
-      <recent name="C:\github\webdevelopment\Labo_8\Opdracht_4" />
-      <recent name="C:\github\webdevelopment\Labo_8\Opdracht_4\Styles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\github\webdevelopment\Labo_8" />
@@ -150,7 +152,12 @@
       <workItem from="1732622969814" duration="463000" />
       <workItem from="1732623837650" duration="2258000" />
       <workItem from="1732806544005" duration="5150000" />
-      <workItem from="1732900515764" duration="4503000" />
+      <workItem from="1732900515764" duration="5719000" />
+      <workItem from="1732962173873" duration="861000" />
+      <workItem from="1733230196340" duration="3650000" />
+      <workItem from="1733508795353" duration="6671000" />
+      <workItem from="1733519932374" duration="826000" />
+      <workItem from="1733556312895" duration="785000" />
     </task>
     <servers />
   </component>

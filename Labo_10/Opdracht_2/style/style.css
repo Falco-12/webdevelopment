@@ -1,0 +1,16 @@
+body > div > div :nth-child(2n) {
+    background: dimgrey;
+    height: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    color: dimgrey;
+}
+
+body > div > div :nth-child(2n-1) {
+    background: darkgray;
+    height: 100px;
+    color: darkgray;
+}
+
+
