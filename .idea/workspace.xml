@@ -41,59 +41,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.Lorem_Ipsum.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Lorem_Ipsum_extra.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht 1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_1_2_3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_1_en_2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_5.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_6.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_7.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_kalender.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.airbus.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.copy_index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.hoofdpagina_index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.htm.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.loungestart.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.oef1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_10.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_11.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_12.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_13.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_5.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_6.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_7.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_8.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_9.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.pagina_hobbys.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.pagina_likes.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.resume.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.voorbeeld1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.voorbeeld2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.voorbeeld3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.voorbeeld4.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/github/webdevelopment/Labo_10/Opdracht_5/style&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Lorem_Ipsum.html.executor": "Run",
+    "JavaScript Debug.Lorem_Ipsum_extra.html.executor": "Run",
+    "JavaScript Debug.Opdracht 1.html.executor": "Run",
+    "JavaScript Debug.Opdracht_1.html.executor": "Run",
+    "JavaScript Debug.Opdracht_1_2_3.html.executor": "Run",
+    "JavaScript Debug.Opdracht_1_en_2.html.executor": "Run",
+    "JavaScript Debug.Opdracht_2.html.executor": "Run",
+    "JavaScript Debug.Opdracht_3.html.executor": "Run",
+    "JavaScript Debug.Opdracht_4.html.executor": "Run",
+    "JavaScript Debug.Opdracht_5.html.executor": "Run",
+    "JavaScript Debug.Opdracht_6.html.executor": "Run",
+    "JavaScript Debug.Opdracht_7.html.executor": "Run",
+    "JavaScript Debug.Opdracht_kalender.html.executor": "Run",
+    "JavaScript Debug.airbus.html.executor": "Run",
+    "JavaScript Debug.copy_index.html.executor": "Run",
+    "JavaScript Debug.exercise1.html.executor": "Run",
+    "JavaScript Debug.exercise2.html.executor": "Run",
+    "JavaScript Debug.exercise3.html.executor": "Run",
+    "JavaScript Debug.exercise4.html.executor": "Run",
+    "JavaScript Debug.exercise5.html.executor": "Run",
+    "JavaScript Debug.exercise6.html.executor": "Run",
+    "JavaScript Debug.hoofdpagina_index.html.executor": "Run",
+    "JavaScript Debug.index.htm.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.loungestart.html.executor": "Run",
+    "JavaScript Debug.oef1.html.executor": "Run",
+    "JavaScript Debug.opdracht_10.html.executor": "Run",
+    "JavaScript Debug.opdracht_11.html.executor": "Run",
+    "JavaScript Debug.opdracht_12.html.executor": "Run",
+    "JavaScript Debug.opdracht_13.html.executor": "Run",
+    "JavaScript Debug.opdracht_3.html.executor": "Run",
+    "JavaScript Debug.opdracht_4.html.executor": "Run",
+    "JavaScript Debug.opdracht_5.html.executor": "Run",
+    "JavaScript Debug.opdracht_6.html.executor": "Run",
+    "JavaScript Debug.opdracht_7.html.executor": "Run",
+    "JavaScript Debug.opdracht_8.html.executor": "Run",
+    "JavaScript Debug.opdracht_9.html.executor": "Run",
+    "JavaScript Debug.pagina_hobbys.html.executor": "Run",
+    "JavaScript Debug.pagina_likes.html.executor": "Run",
+    "JavaScript Debug.resume.html.executor": "Run",
+    "JavaScript Debug.voorbeeld1.html.executor": "Run",
+    "JavaScript Debug.voorbeeld2.html.executor": "Run",
+    "JavaScript Debug.voorbeeld3.html.executor": "Run",
+    "JavaScript Debug.voorbeeld4.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/github/webdevelopment/Labo_10/Opdracht_5/style",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\github\webdevelopment\Labo_10\Opdracht_5\style" />
@@ -113,7 +120,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23726.96" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.112" />
       </set>
     </attachedChunks>
   </component>
@@ -157,7 +164,13 @@
       <workItem from="1733230196340" duration="3650000" />
       <workItem from="1733508795353" duration="6671000" />
       <workItem from="1733519932374" duration="826000" />
-      <workItem from="1733556312895" duration="785000" />
+      <workItem from="1733556312895" duration="1588000" />
+      <workItem from="1733756004997" duration="47000" />
+      <workItem from="1733756114674" duration="87000" />
+      <workItem from="1733756312898" duration="222000" />
+      <workItem from="1733833822622" duration="3205000" />
+      <workItem from="1733854267034" duration="1989000" />
+      <workItem from="1734184048945" duration="1993000" />
     </task>
     <servers />
   </component>

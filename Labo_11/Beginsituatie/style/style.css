@@ -1,0 +1,149 @@
+/* items */
+
+section div {
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+    font-size: 3em;
+}
+.container {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: repeat(4, 1fr);
+}
+
+.container .block {
+    margin: 10px;
+    color: white;
+    font-size: 4em;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* specific item styles */
+
+
+.block.item-2 {
+    background: #33a8a5;
+    grid-column-start: 2;
+    grid-column-end: 2;
+    grid-row-start: 1;
+}
+
+.block.item-3 {
+    background: #30997a;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 4;
+}
+
+.block.item-4 {
+    background: #6a478f;
+    grid-column-start: 1;
+    grid-column-end: 1;
+    grid-row-start: 2;
+}
+
+.block.item-5 {
+    background: #da6f2b;
+    grid-column-start: 2;
+    grid-column-end: 2;
+    grid-row-start: 2;
+}
+
+
+.block.item-7 {
+    background: #e03f3f;
+    grid-column-start: 1;
+    grid-column-end: 1;
+    grid-row-start: 3;
+}
+
+.block.item-8 {
+    background: #59a627;
+    grid-column-start: 2;
+    grid-column-end: 2;
+    grid-row-start: 3;
+}
+
+.block.item-9 {
+    background: #4464a1;
+    grid-column-start: 1;
+    grid-column-end: 1;
+    grid-row-start: 1;
+}
+
+@media screen and (min-width: 760px){
+    .container {
+        display: grid;
+        grid-template-columns: 0.5fr 1fr 0.5fr;
+        grid-template-rows: repeat(3, 1fr);
+    }
+
+    .container .block {
+        margin: 10px;
+        color: white;
+        font-size: 4em;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    /* specific item styles */
+    .block.item-1 {
+        background: #b03532;
+        grid-column-start: 1;
+        grid-column-end: 1;
+    }
+
+    .block.item-2 {
+        background: #33a8a5;
+        grid-column-start: 2;
+        grid-column-end: 2;
+    }
+
+    .block.item-3 {
+        background: #30997a;
+        grid-column-start: 3;
+        grid-column-end: 3;
+    }
+
+    .block.item-4 {
+        background: #6a478f;
+        grid-column-start: 1;
+        grid-column-end: 1;
+    }
+
+    .block.item-5 {
+        background: #da6f2b;
+        grid-column-start: 2;
+        grid-column-end: 2;
+    }
+
+    .block.item-6 {
+        background: #3d8bb1;
+        grid-column-start: 3;
+        grid-column-end: 3;
+    }
+
+    .block.item-7 {
+        background: #e03f3f;
+        grid-column-start: 1;
+        grid-column-end: 1;
+    }
+
+    .block.item-8 {
+        background: #59a627;
+        grid-column-start: 2;
+        grid-column-end: 2;
+    }
+
+    .block.item-9 {
+        background: #4464a1;
+        grid-column-start: 3;
+        grid-column-end: 3;
+    }
+}
+
+
+
