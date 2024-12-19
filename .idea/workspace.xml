@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53333023-4cf2-4cff-9c70-0eccd6e36c8c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_12/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_12/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_12/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_12/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_12/Opdracht_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_12/Opdracht_3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_12/Opdracht_3/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_12/Opdracht_3/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,6 +99,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -175,7 +174,7 @@
       <workItem from="1733854267034" duration="1989000" />
       <workItem from="1734184048945" duration="2245000" />
       <workItem from="1734441239727" duration="2489000" />
-      <workItem from="1734622936670" duration="5305000" />
+      <workItem from="1734622936670" duration="5792000" />
     </task>
     <servers />
   </component>
