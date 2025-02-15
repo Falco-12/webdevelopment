@@ -6,6 +6,329 @@
   <component name="ChangeListManager">
     <list default="true" id="53333023-4cf2-4cff-9c70-0eccd6e36c8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_1/CSS/oef1.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_1/CSS/oef1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_1/images/cat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_1/images/cat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_1/images/cat1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_1/images/cat1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_1/images/cat2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_1/images/cat2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_1/images/cat3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_1/images/cat3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_1/images/cat4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_1/images/cat4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_1/oef1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_1/oef1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_2/style/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_2/style/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_2/style/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_2/style/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_2/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_2/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_3/style/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_3/style/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_3/style/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_3/style/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_3/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_3/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_4/style/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_4/style/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_4/style/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_4/style/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_4/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_4/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_5/copy_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_5/copy_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_5/images/Epic-Games_Logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_5/images/Epic-Games_Logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_5/images/LEGO_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_5/images/LEGO_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_5/images/The_Greatest_Showman.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_5/images/The_Greatest_Showman.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_5/images/foto1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_5/images/foto1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_5/images/party_of_your_lifetime.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_5/images/party_of_your_lifetime.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_5/images/twenty_one_pilots_logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_5/images/twenty_one_pilots_logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_5/images/youtube.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_5/images/youtube.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_5/style/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_5/style/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_5/style/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_5/style/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Opdracht_5/style/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_10/Opdracht_5/style/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Beginsituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Beginsituatie/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Beginsituatie/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Beginsituatie/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Opdracht_1-6/.idea/Grid Exercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Opdracht_1-6/.idea/Grid Exercises.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Opdracht_1-6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Opdracht_1-6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Opdracht_1-6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Opdracht_1-6/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Opdracht_1-6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Opdracht_1-6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Opdracht_1-6/css/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Opdracht_1-6/css/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Opdracht_1-6/css/exercise1.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Opdracht_1-6/css/exercise1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Opdracht_1-6/css/exercise2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Opdracht_1-6/css/exercise2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Opdracht_1-6/css/exercise3.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Opdracht_1-6/css/exercise3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Opdracht_1-6/css/exercise4.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Opdracht_1-6/css/exercise4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Opdracht_1-6/css/exercise5.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Opdracht_1-6/css/exercise5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Opdracht_1-6/css/exercise6.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Opdracht_1-6/css/exercise6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Opdracht_1-6/exercise1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Opdracht_1-6/exercise1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Opdracht_1-6/exercise2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Opdracht_1-6/exercise2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Opdracht_1-6/exercise3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Opdracht_1-6/exercise3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Opdracht_1-6/exercise4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Opdracht_1-6/exercise4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Opdracht_1-6/exercise5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Opdracht_1-6/exercise5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Opdracht_1-6/exercise6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Opdracht_1-6/exercise6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/Opdracht_1-6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_11/Opdracht_1-6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_12/BeginSituatieOef1/css/flexbox-cards.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_12/BeginSituatieOef1/css/flexbox-cards.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_12/BeginSituatieOef1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_12/BeginSituatieOef1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_12/BeginSituatieOef2/images/cat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_12/BeginSituatieOef2/images/cat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_12/BeginSituatieOef2/images/cat1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_12/BeginSituatieOef2/images/cat1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_12/BeginSituatieOef2/images/cat2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_12/BeginSituatieOef2/images/cat2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_12/BeginSituatieOef2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_12/BeginSituatieOef2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_12/BeginSituatieOef2/style-guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_12/BeginSituatieOef2/style-guide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_12/BeginSituatieOef2/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_12/BeginSituatieOef2/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_12/Opdracht_3/Styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_12/Opdracht_3/Styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_12/Opdracht_3/fonts/kumbh.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_12/Opdracht_3/fonts/kumbh.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_12/Opdracht_3/images/bg-pattern-bottom.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_12/Opdracht_3/images/bg-pattern-bottom.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_12/Opdracht_3/images/bg-pattern-card.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_12/Opdracht_3/images/bg-pattern-card.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_12/Opdracht_3/images/bg-pattern-top.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_12/Opdracht_3/images/bg-pattern-top.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_12/Opdracht_3/images/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_12/Opdracht_3/images/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_12/Opdracht_3/images/image-victor.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_12/Opdracht_3/images/image-victor.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_12/Opdracht_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_12/Opdracht_3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_13/leeg_project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_2/Labo_01/leeg_project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_13/leeg_project/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_2/Labo_01/leeg_project/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_13/leeg_project/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_2/Labo_01/leeg_project/styles/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_13/opdracht_rekenmachine/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_2/Labo_01/opdracht_rekenmachine/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_13/opdracht_rekenmachine/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_2/Labo_01/opdracht_rekenmachine/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_13/opdracht_rekenmachine/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_2/Labo_01/opdracht_rekenmachine/styles/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_10.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_2/opdracht_10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_11.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_2/opdracht_11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_12.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_2/opdracht_12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_13.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_2/opdracht_13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_2/opdracht_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_2/opdracht_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_2/opdracht_5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_2/opdracht_6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_2/opdracht_7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_2/opdracht_8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_2/opdracht_9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_2/opdracht_9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/Contact_Information/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_3/Contact_Information/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/Opdracht_1_2_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_3/Opdracht_1_2_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/Opdracht_opleidingsaanbod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_3/Opdracht_opleidingsaanbod/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/Personal_homepage/copy_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_3/Personal_homepage/copy_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/Personal_homepage/images/The_Greatest_Showman.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_3/Personal_homepage/images/The_Greatest_Showman.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/Personal_homepage/images/foto1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_3/Personal_homepage/images/foto1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/Personal_homepage/images/party_of_your_lifetime.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_3/Personal_homepage/images/party_of_your_lifetime.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/Personal_homepage/images/twenty_one_pilots_logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_3/Personal_homepage/images/twenty_one_pilots_logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/Personal_homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_3/Personal_homepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/Opdracht_1_en_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_4/Opdracht_1_en_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/Opdracht_5/hoofdpagina_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_4/Opdracht_5/hoofdpagina_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/Opdracht_5/images/The_Greatest_Showman.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_4/Opdracht_5/images/The_Greatest_Showman.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/Opdracht_5/images/foto1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_4/Opdracht_5/images/foto1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/Opdracht_5/images/party_of_your_lifetime.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_4/Opdracht_5/images/party_of_your_lifetime.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/Opdracht_5/images/twenty_one_pilots_logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_4/Opdracht_5/images/twenty_one_pilots_logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/Opdracht_5/pagina_hobbys.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_4/Opdracht_5/pagina_hobbys.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/Opdracht_5/pagina_likes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_4/Opdracht_5/pagina_likes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/images/JPEG_007-min_40%.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_4/images/JPEG_007-min_40%.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/images/JPEG_007-min_70%.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_4/images/JPEG_007-min_70%.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/images/JPEG_007-min_90%.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_4/images/JPEG_007-min_90%.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/images/JPEG_007.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_4/images/JPEG_007.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/images/screenshot_webstorm-min_40%.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_4/images/screenshot_webstorm-min_40%.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/images/screenshot_webstorm-min_70%.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_4/images/screenshot_webstorm-min_70%.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/Opdracht_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_5/Opdracht_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/Opdracht_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_5/Opdracht_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/Opdracht_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_5/Opdracht_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/Opdracht_6/Styles/stijl.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_5/Opdracht_6/Styles/stijl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/Opdracht_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_5/Opdracht_6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/Opdracht_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_5/Opdracht_7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/Opdracht_1/CSS_Opdracht_1.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_6/Opdracht_1/CSS_Opdracht_1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/Opdracht_1/Opdracht_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_6/Opdracht_1/Opdracht_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/Opdracht_3/CSS_0pdracht3.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_6/Opdracht_3/CSS_0pdracht3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/Opdracht_3/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_6/Opdracht_3/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/Opdracht_4/CSS_opdracht_4.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_6/Opdracht_4/CSS_opdracht_4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/Opdracht_4/Opdracht_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_6/Opdracht_4/Opdracht_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/Opdracht_5/CSS_opdracht_5.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_6/Opdracht_5/CSS_opdracht_5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/Opdracht_5/Opdracht_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_6/Opdracht_5/Opdracht_5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/Opdracht_5/images/images.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_6/Opdracht_5/images/images.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/Opdracht_6/CSS_opdracht_6.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_6/Opdracht_6/CSS_opdracht_6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/Opdracht_6/Opdracht_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_6/Opdracht_6/Opdracht_6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/Opdracht_6/images/checked.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_6/Opdracht_6/images/checked.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/Opdracht_6/images/empty.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_6/Opdracht_6/images/empty.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_2/copy_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_2/copy_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_2/images/Epic-Games_Logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_2/images/Epic-Games_Logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_2/images/LEGO_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_2/images/LEGO_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_2/images/The_Greatest_Showman.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_2/images/The_Greatest_Showman.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_2/images/foto1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_2/images/foto1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_2/images/party_of_your_lifetime.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_2/images/party_of_your_lifetime.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_2/images/twenty_one_pilots_logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_2/images/twenty_one_pilots_logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_2/images/youtube.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_2/images/youtube.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_2/styles/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_2/styles/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_3/copy_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_3/copy_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_3/images/Epic-Games_Logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_3/images/Epic-Games_Logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_3/images/LEGO_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_3/images/LEGO_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_3/images/The_Greatest_Showman.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_3/images/The_Greatest_Showman.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_3/images/foto1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_3/images/foto1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_3/images/party_of_your_lifetime.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_3/images/party_of_your_lifetime.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_3/images/twenty_one_pilots_logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_3/images/twenty_one_pilots_logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_3/images/youtube.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_3/images/youtube.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_3/styles/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_3/styles/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_Nature_Blog/StyleSheet/CSS_opdracht_Nature.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_Nature_Blog/StyleSheet/CSS_opdracht_Nature.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_Nature_Blog/images/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_Nature_Blog/images/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_Nature_Blog/images/nature blog example.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_Nature_Blog/images/nature blog example.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_Nature_Blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_Nature_Blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_Personal_Homepage_CSS/copy_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_Personal_Homepage_CSS/copy_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_Personal_Homepage_CSS/images/Epic-Games_Logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_Personal_Homepage_CSS/images/Epic-Games_Logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_Personal_Homepage_CSS/images/LEGO_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_Personal_Homepage_CSS/images/LEGO_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_Personal_Homepage_CSS/images/The_Greatest_Showman.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_Personal_Homepage_CSS/images/The_Greatest_Showman.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_Personal_Homepage_CSS/images/foto1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_Personal_Homepage_CSS/images/foto1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_Personal_Homepage_CSS/images/party_of_your_lifetime.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_Personal_Homepage_CSS/images/party_of_your_lifetime.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_Personal_Homepage_CSS/images/twenty_one_pilots_logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_Personal_Homepage_CSS/images/twenty_one_pilots_logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_Personal_Homepage_CSS/images/youtube.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_Personal_Homepage_CSS/images/youtube.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_Personal_Homepage_CSS/styles/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_Personal_Homepage_CSS/styles/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_kalender/Opdracht_kalender.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_kalender/Opdracht_kalender.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Opdracht_kalender/Style/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_7/Opdracht_kalender/Style/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Lorem_Ipsum/Lorem_Ipsum.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Lorem_Ipsum/Lorem_Ipsum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Lorem_Ipsum/Styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Lorem_Ipsum/Styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Lorem_Ipsum_extra_ruimte/Lorem_Ipsum_extra.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Lorem_Ipsum_extra_ruimte/Lorem_Ipsum_extra.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Lorem_Ipsum_extra_ruimte/Styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Lorem_Ipsum_extra_ruimte/Styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_1/Opdracht_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_1/Opdracht_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_1/Styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_1/Styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_1/voorbeeld1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_1/voorbeeld1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_2/Images/afbeelding_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_2/Images/afbeelding_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_2/Images/afbeelding_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_2/Images/afbeelding_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_2/Images/afbeelding_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_2/Images/afbeelding_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_2/Opdracht_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_2/Opdracht_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_2/Styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_2/Styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_2/voorbeeld1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_2/voorbeeld1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_3/Images/afbeelding_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_3/Images/afbeelding_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_3/Images/afbeelding_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_3/Images/afbeelding_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_3/Images/afbeelding_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_3/Images/afbeelding_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_3/Images/afbeelding_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_3/Images/afbeelding_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_3/Opdracht_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_3/Opdracht_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_3/Styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_3/Styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_3/voorbeeld2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_3/voorbeeld2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_4/Images/afbeelding_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_4/Images/afbeelding_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_4/Images/afbeelding_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_4/Images/afbeelding_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_4/Images/afbeelding_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_4/Images/afbeelding_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_4/Opdracht_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_4/Opdracht_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_4/Styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_4/Styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_4/voorbeeld3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_4/voorbeeld3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_5/Images/afbeelding_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_5/Images/afbeelding_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_5/Images/afbeelding_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_5/Images/afbeelding_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_5/Images/afbeelding_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_5/Images/afbeelding_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_5/Images/afbeelding_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_5/Images/afbeelding_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_5/Opdracht_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_5/Opdracht_5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_5/Styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_5/Styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_5/voorbeeld4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_5/voorbeeld4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_cocktail_bar/Styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_cocktail_bar/Styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_cocktail_bar/images/background.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_cocktail_bar/images/background.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_cocktail_bar/images/black.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_cocktail_bar/images/black.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_cocktail_bar/images/blue.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_cocktail_bar/images/blue.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_cocktail_bar/images/chai.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_cocktail_bar/images/chai.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_cocktail_bar/images/cocktail.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_cocktail_bar/images/cocktail.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_cocktail_bar/images/cocktails.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_cocktail_bar/images/cocktails.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_cocktail_bar/images/green.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_cocktail_bar/images/green.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_cocktail_bar/images/lightblue.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_cocktail_bar/images/lightblue.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_cocktail_bar/images/red.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_cocktail_bar/images/red.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_cocktail_bar/images/yellow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_cocktail_bar/images/yellow.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_cocktail_bar/loungestart.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_8/Opdracht_cocktail_bar/loungestart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/Opdracht_positioneren/Images/flight1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/Opdracht_positioneren/Images/flight1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/Opdracht_positioneren/Images/flight2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/Opdracht_positioneren/Images/flight2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/Opdracht_positioneren/Images/flight3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/Opdracht_positioneren/Images/flight3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/Opdracht_positioneren/Images/flight4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/Opdracht_positioneren/Images/flight4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/Opdracht_positioneren/Styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/Opdracht_positioneren/Styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/Opdracht_positioneren/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/Opdracht_positioneren/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/Styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/Styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/airbus.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/airbus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/images/A380Grond.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/images/A380Grond.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/images/Britischairways.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/images/Britischairways.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/images/abramovich.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/images/abramovich.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/images/airbus_logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/images/airbus_logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/images/bgsky1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/images/bgsky1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/images/bgsky2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/images/bgsky2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/images/bgsky3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/images/bgsky3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/images/binnen1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/images/binnen1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/images/binnen2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/images/binnen2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/images/binnen3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/images/binnen3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/images/cockpit.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/images/cockpit.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/images/indelucht.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/images/indelucht.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/images/indelucht2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/images/indelucht2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/images/pasagiers.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/images/pasagiers.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/images/qantas.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/images/qantas.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/images/tek.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/images/tek.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/images/tekening.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/images/tekening.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/images/tekklein.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/images/tekklein.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_Airbus/images/transport.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Labo_9/opdracht_Airbus/images/transport.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/Oplossing_ContactInformation/ContactInformation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/Oplossing_ContactInformation/ContactInformation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/Oplossing_ContactInformation/ContactInformation/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/Oplossing_ContactInformation/ContactInformation/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/Oplossing_Opleidingsaanbod/Opleidingsaanbod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/Oplossing_Opleidingsaanbod/Opleidingsaanbod/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/opl_oef1_Bootstrap/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/opl_oef1_Bootstrap/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/opl_oef1_Bootstrap/style/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/opl_oef1_Bootstrap/style/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/opl_oef1_Bootstrap/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/opl_oef1_Bootstrap/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/airbus.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/airbus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/A380Grond.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/A380Grond.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/Britischairways.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/Britischairways.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/abramovich.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/abramovich.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/airbus_logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/airbus_logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/bgsky1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/bgsky1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/bgsky2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/bgsky2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/bgsky3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/bgsky3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/binnen1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/binnen1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/binnen2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/binnen2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/binnen3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/binnen3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/cockpit.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/cockpit.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/indelucht.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/indelucht.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/indelucht2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/indelucht2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/pagebackground.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/pagebackground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/pasagiers.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/pasagiers.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/qantas.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/qantas.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/tek.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/tek.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/tekening.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/tekening.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/tekklein.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/tekklein.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/fotos/transport.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/fotos/transport.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing airbus/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing airbus/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/background.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/background.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/black.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/black.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/blue.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/blue.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/chai.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/chai.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/cocktail.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/cocktail.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/cocktails.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/cocktails.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/cocktails.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/cocktails.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/green.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/green.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/lightblue.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/lightblue.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/logo.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/logo.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/red.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/red.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/yellow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/images/yellow.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/style/lounge.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing cocktail bar(1)/oplossing cocktail bar/style/lounge.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing lorem ipsum - float/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing lorem ipsum - float/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing lorem ipsum - float/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing lorem ipsum - float/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing lorem ipsum - inlineblock/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing lorem ipsum - inlineblock/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing lorem ipsum - inlineblock/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing lorem ipsum - inlineblock/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing lorem ipsum extra space - float/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing lorem ipsum extra space - float/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing lorem ipsum extra space - float/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing lorem ipsum extra space - float/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing lorem ipsum extra space - inlineblock/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing lorem ipsum extra space - inlineblock/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing lorem ipsum extra space - inlineblock/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing lorem ipsum extra space - inlineblock/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing lorem ipsum extra space alternative - float/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing lorem ipsum extra space alternative - float/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing lorem ipsum extra space alternative - float/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing lorem ipsum extra space alternative - float/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing lorem ipsum extra space alternative - inlineblock/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing lorem ipsum extra space alternative - inlineblock/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing lorem ipsum extra space alternative - inlineblock/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing lorem ipsum extra space alternative - inlineblock/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing nature blog/images/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing nature blog/images/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing nature blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing nature blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing nature blog/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing nature blog/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing personal homepage/images/clint-eastwood.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing personal homepage/images/clint-eastwood.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing personal homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing personal homepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing persoonlijke pagina met css(1)/persoonlijkepagina css/images/clint-eastwood.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing persoonlijke pagina met css(1)/persoonlijkepagina css/images/clint-eastwood.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing persoonlijke pagina met css(1)/persoonlijkepagina css/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing persoonlijke pagina met css(1)/persoonlijkepagina css/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing persoonlijke pagina met css(1)/persoonlijkepagina css/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing persoonlijke pagina met css(1)/persoonlijkepagina css/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing resume/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing resume/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossing resume/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossing resume/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen css deel 01/opdracht 6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen css deel 01/opdracht 6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen css deel 01/opdracht 6/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen css deel 01/opdracht 6/style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen css deel 01/opdracht 7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen css deel 01/opdracht 7/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen css deel 01/opdracht 7/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen css deel 01/opdracht 7/style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen css deel 02/css deel 02 opdracht 05/images/link.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen css deel 02/css deel 02 opdracht 05/images/link.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen css deel 02/css deel 02 opdracht 05/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen css deel 02/css deel 02 opdracht 05/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen css deel 02/css deel 02 opdracht 05/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen css deel 02/css deel 02 opdracht 05/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen css deel 02/css deel 02 opdracht 06/images/checked.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen css deel 02/css deel 02 opdracht 06/images/checked.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen css deel 02/css deel 02 opdracht 06/images/unchecked.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen css deel 02/css deel 02 opdracht 06/images/unchecked.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen css deel 02/css deel 02 opdracht 06/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen css deel 02/css deel 02 opdracht 06/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen css deel 02/css deel 02 opdracht 06/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen css deel 02/css deel 02 opdracht 06/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen css deel 02/css deel 02 opdracht 07/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen css deel 02/css deel 02 opdracht 07/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen css deel 02/css deel 02 opdracht 07/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen css deel 02/css deel 02 opdracht 07/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen css deel 02/css deel 2 opdracht 01 nadien/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen css deel 02/css deel 2 opdracht 01 nadien/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen css deel 02/css deel 2 opdracht 01 nadien/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen css deel 02/css deel 2 opdracht 01 nadien/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen css deel 02/css deel 2 opdracht 01 voordien/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen css deel 02/css deel 2 opdracht 01 voordien/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen css deel 02/css deel 2 opdracht 01 voordien/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen css deel 02/css deel 2 opdracht 01 voordien/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen kalender/oplossing kalender 1/kalender.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen kalender/oplossing kalender 1/kalender.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen kalender/oplossing kalender 1/style/kalender.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen kalender/oplossing kalender 1/style/kalender.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen kalender/oplossing kalender 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen kalender/oplossing kalender 2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/oplossingen kalender/oplossing kalender 2/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/oplossingen kalender/oplossing kalender 2/style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/positioneren_image_oplossing/Images/flight1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/positioneren_image_oplossing/Images/flight1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/positioneren_image_oplossing/Images/flight2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/positioneren_image_oplossing/Images/flight2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/positioneren_image_oplossing/Images/flight3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/positioneren_image_oplossing/Images/flight3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/positioneren_image_oplossing/Images/flight4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/positioneren_image_oplossing/Images/flight4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/positioneren_image_oplossing/Styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/positioneren_image_oplossing/Styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oplossingen/positioneren_image_oplossing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/Oplossingen/positioneren_image_oplossing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/badge1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/images/badge1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +338,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -40,82 +363,82 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.Chip_challenge.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Lorem_Ipsum.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Lorem_Ipsum_extra.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht 1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_1_2_3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_1_en_2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_5.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_6.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_7.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Opdracht_kalender.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.airbus.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.copy_index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.exercise1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.exercise2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.exercise3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.exercise4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.exercise5.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.exercise6.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.hoofdpagina_index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.htm.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.loungestart.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.oef1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_10.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_11.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_12.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_13.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_5.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_6.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_7.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_8.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht_9.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.pagina_hobbys.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.pagina_likes.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.resume.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.voorbeeld1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.voorbeeld2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.voorbeeld3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.voorbeeld4.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/github/webdevelopment/Labo_12/Opdracht_3&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Chip_challenge.html.executor": "Run",
+    "JavaScript Debug.Lorem_Ipsum.html.executor": "Run",
+    "JavaScript Debug.Lorem_Ipsum_extra.html.executor": "Run",
+    "JavaScript Debug.Opdracht 1.html.executor": "Run",
+    "JavaScript Debug.Opdracht_1.html.executor": "Run",
+    "JavaScript Debug.Opdracht_1_2_3.html.executor": "Run",
+    "JavaScript Debug.Opdracht_1_en_2.html.executor": "Run",
+    "JavaScript Debug.Opdracht_2.html.executor": "Run",
+    "JavaScript Debug.Opdracht_3.html.executor": "Run",
+    "JavaScript Debug.Opdracht_4.html.executor": "Run",
+    "JavaScript Debug.Opdracht_5.html.executor": "Run",
+    "JavaScript Debug.Opdracht_6.html.executor": "Run",
+    "JavaScript Debug.Opdracht_7.html.executor": "Run",
+    "JavaScript Debug.Opdracht_kalender.html.executor": "Run",
+    "JavaScript Debug.airbus.html.executor": "Run",
+    "JavaScript Debug.copy_index.html.executor": "Run",
+    "JavaScript Debug.exercise1.html.executor": "Run",
+    "JavaScript Debug.exercise2.html.executor": "Run",
+    "JavaScript Debug.exercise3.html.executor": "Run",
+    "JavaScript Debug.exercise4.html.executor": "Run",
+    "JavaScript Debug.exercise5.html.executor": "Run",
+    "JavaScript Debug.exercise6.html.executor": "Run",
+    "JavaScript Debug.hoofdpagina_index.html.executor": "Run",
+    "JavaScript Debug.index.htm.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.loungestart.html.executor": "Run",
+    "JavaScript Debug.oef1.html.executor": "Run",
+    "JavaScript Debug.opdracht_10.html.executor": "Run",
+    "JavaScript Debug.opdracht_11.html.executor": "Run",
+    "JavaScript Debug.opdracht_12.html.executor": "Run",
+    "JavaScript Debug.opdracht_13.html.executor": "Run",
+    "JavaScript Debug.opdracht_3.html.executor": "Run",
+    "JavaScript Debug.opdracht_4.html.executor": "Run",
+    "JavaScript Debug.opdracht_5.html.executor": "Run",
+    "JavaScript Debug.opdracht_6.html.executor": "Run",
+    "JavaScript Debug.opdracht_7.html.executor": "Run",
+    "JavaScript Debug.opdracht_8.html.executor": "Run",
+    "JavaScript Debug.opdracht_9.html.executor": "Run",
+    "JavaScript Debug.pagina_hobbys.html.executor": "Run",
+    "JavaScript Debug.pagina_likes.html.executor": "Run",
+    "JavaScript Debug.resume.html.executor": "Run",
+    "JavaScript Debug.voorbeeld1.html.executor": "Run",
+    "JavaScript Debug.voorbeeld2.html.executor": "Run",
+    "JavaScript Debug.voorbeeld3.html.executor": "Run",
+    "JavaScript Debug.voorbeeld4.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/github/webdevelopment/Semester_2/Labo_02/oef_substrings",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\github\webdevelopment\Labo_12\Opdracht_3" />
-      <recent name="C:\github\webdevelopment\Labo_12\Opdracht_3\fonts" />
-      <recent name="C:\github\webdevelopment\Labo_12\Opdracht_3\images" />
-      <recent name="C:\github\webdevelopment\Labo_10\Opdracht_5\style" />
-      <recent name="C:\github\webdevelopment\Labo_10\Opdracht_5" />
+      <recent name="C:\github\webdevelopment\Semester_2\Labo_02\oef_substrings" />
+      <recent name="C:\github\webdevelopment\Semester_2\Labo_02\oef7" />
+      <recent name="C:\github\webdevelopment\Semester_2\Labo_02" />
+      <recent name="C:\github\webdevelopment\Semester_2\Labo_02\oef5" />
+      <recent name="C:\github\webdevelopment\Semester_2\Labo_02\oef4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\github\webdevelopment\Semester_2" />
+      <recent name="C:\github\webdevelopment\Semester_1" />
       <recent name="C:\github\webdevelopment\Labo_8" />
       <recent name="C:\github\webdevelopment\Labo_8\Opdracht_1\Styles" />
       <recent name="C:\github\webdevelopment\Labo_7\Opdracht_Personal_Homepage_CSS\styles" />
-      <recent name="C:\github\webdevelopment\Labo_7\Opdracht_1" />
-      <recent name="C:\github\webdevelopment\Labo_6\Opdracht_6\images" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -185,10 +508,24 @@
       <workItem from="1736916750059" duration="1652000" />
       <workItem from="1736927384840" duration="8621000" />
       <workItem from="1738868398068" duration="745000" />
+      <workItem from="1738908923476" duration="671000" />
+      <workItem from="1739351742696" duration="4413000" />
+      <workItem from="1739630956332" duration="4737000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Semester_2/Labo_02/oef3/scripts/index.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
