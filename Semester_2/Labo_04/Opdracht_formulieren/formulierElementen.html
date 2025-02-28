@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head> 
+	<title>Opdracht formulieren</title>
+	<link rel="stylesheet" type="text/css" href="styles/index.css">
+</head> 
+
+<body> 
+<form method="post">
+	<section>
+	<p>Personal information</p>
+	<p>first name*: <input type="text" placeholder="Your first name" required="required"/></p>
+	<p>last name*: <input type="text" placeholder="Your last name" required="required"/></p>
+	</section>
+	<section>
+		<p>Sports</p>
+		<p>which sports did you train?</p>
+		<p>Running<input type="checkbox" name="Running" value="v" /></p>
+		<p>Swimming<input type="checkbox" name="Swimming" value="v" /></p>
+		<p>Rowing<input type="checkbox" name="Rowing" value="v" /></p>
+	</section>
+	<section>
+		<p>gender</p>
+		<p><input type="radio" name="gender" /> Male</p>
+		<p><input type="radio" name="gender" /> Female</p>
+		<p><input type="radio" name="gender" /> Other/prefer not to say</p>
+	</section>
+	<section>
+		<p>favorites</p>
+		<p>favorite movie: <input type="text"/></p>
+		<p>favorite quote: <input type="text" placeholder="Write your favorite quote"/></p>
+		<p>favorite food <textarea rows="5" cols="50" name="favFoods" wrap="virtual"> </textarea></p>
+		<p>Choose a flavor: <input type="text"/></p>
+	</section>
+	<section>
+		<p>Security &amp; contact</p>
+		<p>Password*:<input type="password" name ="paswoord" size="10" maxlength="10" required="required" /></p>
+		<p>Email*:<input type="email" name="txtEmail" placeholder="Enter your email address" required="required" /></p>
+		<p>Favorite Site:<input type="url" name="txtUrl" placeholder="Enter the URL of your favorite site" /></p>
+	</section>
+	<section>
+		<p>additional information</p>
+		<p>Favorite number (0-10): <input type="number"> </p>
+		<p>Favorite number (11-1000): <input type="range" value="0" min="11" max="1000" /></p>
+		<p>When were you born? <input type="date"/></p>
+		<p>Belgium zip-code number*: <input type="text" name="postcode" size="4" maxlength="4" placeholder="9999" required="required"/></p>
+	</section>
+	<section>
+		<p>miscellaneous</p>
+		<p>search for something: <input type="search" name=”txtSearch” /></p>
+		<p>What is your favorite color? <input type="color"/></p>
+		<p>Upload a file: <input type="file" name="file"></p>
+	</section>
+	<input type="submit" />
+</form>
+	<script src="scripts/index.js"></script> 
+</body> 
+</html> 

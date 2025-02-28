@@ -1,0 +1,7 @@
+section {
+    border: 1px solid black;
+    margin: 10px;
+}
+section > p{
+    margin: 0;
+}
