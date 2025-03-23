@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="53333023-4cf2-4cff-9c70-0eccd6e36c8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_2/Labo_05/Opdracht_formwaarden/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_2/Labo_05/Opdracht_formwaarden/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Semester_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,7 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -95,7 +96,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/github/webdevelopment/Semester_2/Labo_05&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/github/webdevelopment/Semester_2/Labo_06&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -108,18 +109,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\github\webdevelopment\Semester_2\Labo_06" />
+      <recent name="C:\github\webdevelopment\Semester_2\Labo_06\Opdracht_2\images" />
       <recent name="C:\github\webdevelopment\Semester_2\Labo_05" />
       <recent name="C:\github\webdevelopment\Semester_2\Labo_4" />
       <recent name="C:\github\webdevelopment\Semester_2\Labo_03" />
-      <recent name="C:\github\webdevelopment\Semester_2\Labo_02\oef_substrings" />
-      <recent name="C:\github\webdevelopment\Semester_2\Labo_02\oef7" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\github\webdevelopment\Semester_2\Labo_06" />
+      <recent name="C:\github\webdevelopment\Semester_2\Test\js_test_start\images" />
+      <recent name="C:\github\webdevelopment\Semester_2\Test\js_test_start\Styles" />
       <recent name="C:\github\webdevelopment\Semester_2" />
       <recent name="C:\github\webdevelopment\Semester_1" />
-      <recent name="C:\github\webdevelopment\Labo_8" />
-      <recent name="C:\github\webdevelopment\Labo_8\Opdracht_1\Styles" />
-      <recent name="C:\github\webdevelopment\Labo_7\Opdracht_Personal_Homepage_CSS\styles" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -207,7 +208,13 @@
       <workItem from="1742069429163" duration="2213000" />
       <workItem from="1742083610933" duration="1118000" />
       <workItem from="1742109138755" duration="4423000" />
-      <workItem from="1742114610838" duration="4155000" />
+      <workItem from="1742114610838" duration="5298000" />
+      <workItem from="1742374284775" duration="6381000" />
+      <workItem from="1742455826397" duration="4000" />
+      <workItem from="1742662145396" duration="3171000" />
+      <workItem from="1742681509931" duration="2667000" />
+      <workItem from="1742715755990" duration="871000" />
+      <workItem from="1742720608156" duration="1094000" />
     </task>
     <servers />
   </component>
@@ -220,6 +227,16 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Semester_2/Labo_02/oef3/scripts/index.js</url>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Semester_2/Labo_04/Opdracht_Man_van_An/scripts/index.js</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Semester_2/Labo_06/Opdracht_Dom_tree_nodes/scripts/index.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

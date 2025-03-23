@@ -1,0 +1,69 @@
+.slider {
+	vertical-align:middle;
+}
+
+.component span:nth-of-type(2) {
+	display:inline-block;
+	width:3em;
+	text-align:right;
+}
+
+
+
+.swatch {
+	display:inline-block;
+	border:solid 1px black;
+	border-radius:5px;
+	margin:0 0 0 1em;
+	height:4em;
+	width:5em;
+}
+
+
+
+
+
+
+
+
+
+.components {
+	display:inline-block;
+	height:100%;
+}
+
+.colorPicker {
+	display:inline-block;
+	border:solid 5px lightgrey;
+	border-radius:10px;
+	padding:10px;
+}
+#savedSwatches {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-top: 20px;
+}
+
+.savedSwatch {
+	width: 50px;
+	height: 50px;
+	margin: 5px;
+	position: relative;
+	border: 1px solid #000;
+	cursor: pointer;
+}
+
+.deleteSwatch {
+	position: absolute;
+	top: -5px;
+	right: -5px;
+	border: none;
+	cursor: pointer;
+	font-size: 12px;
+	width: 18px;
+	height: 18px;
+
+}
+
+
