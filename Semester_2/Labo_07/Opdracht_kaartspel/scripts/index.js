@@ -23,7 +23,7 @@ const voegKaartToe =() =>{
     for(let i = 0, len = global.AANTAL_KAARTEN*2; i < len; i++) {
         let div = document.createElement("div");
         div.classList.add("kaart");
-        div.innerHTML = "<img src='images/achterkant.png' alt=kaart "+i+ "/>"
+        div.innerHTML = "<img src='images/achterkant.png' alt= "+i+ "/>"
         let playField = document.getElementById("playField");
         playField.appendChild(div);
     }
