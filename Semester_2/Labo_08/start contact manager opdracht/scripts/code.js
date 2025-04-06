@@ -7,8 +7,7 @@ const setup = () => {
     btnNieuw.addEventListener("click", bewerkNieuwePersoon);
 
     let lstPersonen = document.getElementById("lstPersonen");
-
-    // lijst opbouwen bij start
+    
     personen.forEach((persoon, index) => {
         let option = document.createElement("option");
         option.text = persoon.voornaam +" "+ persoon.familienaam;
