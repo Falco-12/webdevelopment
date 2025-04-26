@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53333023-4cf2-4cff-9c70-0eccd6e36c8c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Semester_2/Labo_08/Opdracht_Geleefde_Dagen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_2/Labo_08/Opdracht_Geleefde_Dagen/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester_2/Labo_08/Opdracht_JSON/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_2/Labo_08/Opdracht_JSON/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester_2/Labo_08/start contact manager opdracht/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_2/Labo_08/start contact manager opdracht/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +25,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Labo_3/Opdracht_opleidingsaanbod/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Semester_2/Labo_09/Opdracht_colorpicker/scripts/code.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -96,24 +94,24 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/github/webdevelopment/Semester_2/Labo_08&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/github/webdevelopment/Semester_2/Labo_09&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\github\webdevelopment\Semester_2\Labo_09" />
       <recent name="C:\github\webdevelopment\Semester_2\Labo_08" />
       <recent name="C:\github\webdevelopment\Semester_2\Labo_07" />
       <recent name="C:\github\webdevelopment\Semester_2\Labo_06" />
       <recent name="C:\github\webdevelopment\Semester_2\Labo_06\Opdracht_2\images" />
-      <recent name="C:\github\webdevelopment\Semester_2\Labo_05" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\github\webdevelopment\Semester_2\Labo_06" />
@@ -223,6 +221,10 @@
       <workItem from="1743582142090" duration="7146000" />
       <workItem from="1743887751868" duration="1866000" />
       <workItem from="1743927139312" duration="1341000" />
+      <workItem from="1745397903395" duration="7115000" />
+      <workItem from="1745507854240" duration="1000" />
+      <workItem from="1745702159078" duration="676000" />
+      <workItem from="1745702853143" duration="303000" />
     </task>
     <servers />
   </component>
