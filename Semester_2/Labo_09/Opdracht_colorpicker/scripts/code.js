@@ -6,7 +6,7 @@ const initialize = () => {
 	let sliders = document.getElementsByClassName("slider");
 	let btn = document.getElementById("btnSave");
 
-	
+
 	let savedRed = localStorage.getItem("sldRed");
 	let savedGreen = localStorage.getItem("sldGreen");
 	let savedBlue = localStorage.getItem("sldBlue");
