@@ -20,13 +20,6 @@
 }
 
 
-
-
-
-
-
-
-
 .components {
 	display:inline-block;
 	height:100%;
@@ -56,8 +49,9 @@
 
 .deleteSwatch {
 	position: absolute;
-	top: -5px;
-	right: -5px;
+	top: 5px;
+	right: 5px;
+
 	border: none;
 	cursor: pointer;
 	font-size: 12px;

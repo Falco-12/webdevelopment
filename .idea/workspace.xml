@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53333023-4cf2-4cff-9c70-0eccd6e36c8c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Semester_2/Labo_09/Opdracht_colorpicker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_2/Labo_09/Opdracht_colorpicker/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webdevelopment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webdevelopment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_2/Labo_09/Opdracht_colorpicker/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_2/Labo_09/Opdracht_colorpicker/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Semester_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +97,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/github/webdevelopment/Semester_2/Labo_09&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/github/webdevelopment/Semester_2/Labo_02/Labo_10&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -108,17 +110,17 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\github\webdevelopment\Semester_2\Labo_02\Labo_10" />
       <recent name="C:\github\webdevelopment\Semester_2\Labo_09" />
       <recent name="C:\github\webdevelopment\Semester_2\Labo_08" />
       <recent name="C:\github\webdevelopment\Semester_2\Labo_07" />
       <recent name="C:\github\webdevelopment\Semester_2\Labo_06" />
-      <recent name="C:\github\webdevelopment\Semester_2\Labo_06\Opdracht_2\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\github\webdevelopment\Semester_2" />
       <recent name="C:\github\webdevelopment\Semester_2\Labo_06" />
       <recent name="C:\github\webdevelopment\Semester_2\Test\js_test_start\images" />
       <recent name="C:\github\webdevelopment\Semester_2\Test\js_test_start\Styles" />
-      <recent name="C:\github\webdevelopment\Semester_2" />
       <recent name="C:\github\webdevelopment\Semester_1" />
     </key>
   </component>
@@ -225,7 +227,10 @@
       <workItem from="1745397903395" duration="7115000" />
       <workItem from="1745507854240" duration="1000" />
       <workItem from="1745702159078" duration="676000" />
-      <workItem from="1745702853143" duration="768000" />
+      <workItem from="1745702853143" duration="1486000" />
+      <workItem from="1746000090278" duration="9950000" />
+      <workItem from="1746303284138" duration="566000" />
+      <workItem from="1746345355705" duration="782000" />
     </task>
     <servers />
   </component>

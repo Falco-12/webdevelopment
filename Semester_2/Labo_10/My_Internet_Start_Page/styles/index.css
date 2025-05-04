@@ -1,0 +1,46 @@
+#btnGO{
+    background-color: limegreen;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+
+}
+
+#TxtInput{
+    border-radius: 5px;
+}
+
+.yt{
+    color: white;
+    background-color: #FF0000;
+    margin: 15px;
+}
+
+.ggl{
+    color: white;
+    background-color: #4285F4;
+    margin: 15px;
+}
+
+.insta{
+    color: white;
+    background-color: #962fbf;
+    margin: 15px;
+}
+
+.X{
+    color: white;
+    background-color: black;
+    margin: 15px;
+}
+
+.button {
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+    width: 50px;
+    height: 30px;
+    background-color: black;
+    color: white;
+}
